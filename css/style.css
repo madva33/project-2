@@ -1094,7 +1094,7 @@ body {
     padding: 15px 20px; 
     width: 350px; 
     height: 55px; 
-    border: 1px solid #333333;
+    border: 1px solid #13bf0a;
     background: #eef5ff; 
     color: #FFFFFF; 
     outline: none; 
@@ -1118,6 +1118,7 @@ body {
 .news-form button:hover { 
     transform: scale(1.08); 
     background: #FFFFFF; 
+    border: 2px solid #13bf0a;
 }
 
 .socials i { 
@@ -1144,14 +1145,14 @@ body {
 }
 
 .footer-img{
-  width: 70px;
-  height: 70px;
+  width: 90px;
+  height: 90px;
 }
 
 .footer-logo span{
   font-size: 25px;
   text-align: center;
-  margin-top: 15px;
+  margin-top: 27px;
   color: #030303;
 }
 
@@ -1170,6 +1171,10 @@ body {
 .footer-grid ul { 
     list-style: none; 
     padding: 0; 
+}
+
+.f-lsit a {
+    text-decoration: none;
 }
 
 .footer-grid ul li { 
